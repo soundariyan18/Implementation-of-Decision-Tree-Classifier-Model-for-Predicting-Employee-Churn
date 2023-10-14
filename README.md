@@ -74,19 +74,34 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
+Initial data set:
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/Screenshot%202023-10-14%20160244.png)
+
+Data info:
 
 ![MODEL](https://github.com/soundariyan18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/Screenshot%202023-10-14%20160351.png)
 
+Optimization of null values:
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/Screenshot%202023-10-14%20160413.png)
+
+Assignment of x and y values:
 
 ![MODEL](https://github.com/soundariyan18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/Screenshot%202023-10-14%20160428.png)
 
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/Screenshot%202023-10-14%20160444.png)
+
+Converting string literals to numerical values using label encoder:
 
 ![MODEL](https://github.com/soundariyan18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/Screenshot%202023-10-14%20160458.png)
 
+Accuracy:
+
 ![MODEL](https://github.com/soundariyan18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/Screenshot%202023-10-14%20160514.png)
+
+Prediction:
 
 ![MODEL](https://github.com/soundariyan18/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/Screenshot%202023-10-14%20160530.png)
 
